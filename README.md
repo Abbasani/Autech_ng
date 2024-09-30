@@ -1,2 +1,2 @@
-# Autech_ng
-through tech you can create the life style you desire
+# Data Science Nigeria X Microsoft 2024 AI Bootcamp Qualification Hackathon
+Heart Disease prediction for the DSN AI Bootcamp 2024
